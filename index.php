@@ -64,7 +64,7 @@
       </div>
     </div>
 
-    <!-- Formulario (Agregar, Modificar) -->
+    <!-- Formulario (Agregar,  Modificar) -->
 
     <div class="modal fade" id="FormularioArticulo" tabindex="-1" role="dialog">
       <div class="modal-dialog" role="document">
